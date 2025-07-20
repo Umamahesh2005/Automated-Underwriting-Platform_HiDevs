@@ -1,0 +1,11 @@
+
+================== Final Underwriting Report ==================
+🏠 Property Type       : Residential
+🔥 Fire Safety Present : Yes
+📄 Claim Type           : Fire
+⚡ Priority Level       : High
+🖼️  Image Analysis      : Predicted class index: 449 - house
+⚠️  Risk Score          : Low
+🧾 Compliance Status   : Compliant
+🚚 Routing Decision     : Route to Emergency Fire Claims Team
+===============================================================
